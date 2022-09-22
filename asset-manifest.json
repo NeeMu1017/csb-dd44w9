@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://neemu1017.github.io/csb-dd44w9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://neemu1017.github.io/csb-dd44w9/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://neemu1017.github.io/csb-dd44w9/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://neemu1017.github.io/csb-dd44w9/static/js/runtime-main.c1741140.js",
+    "runtime-main.js.map": "https://neemu1017.github.io/csb-dd44w9/static/js/runtime-main.c1741140.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://neemu1017.github.io/csb-dd44w9/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://neemu1017.github.io/csb-dd44w9/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://neemu1017.github.io/csb-dd44w9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://neemu1017.github.io/csb-dd44w9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://neemu1017.github.io/csb-dd44w9/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1741140.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
